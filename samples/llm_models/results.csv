@@ -1,0 +1,27 @@
+﻿Model,Code,Efficiency,super efficiency
+Claude_Sonnet_4,M1,0.99,0.99
+Claude_Sonnet_4.5,M2,1,1.033
+Claude_Opus_4,M3,1,1.055
+Claude_Opus_4.1,M4,1,1.011
+GPT-o1,M5,1,1.299
+GPT-o3,M6,1,1.25
+GPT-4.5,M7,0.98,0.98
+GPT-5,M8,1,1.023
+Gemini_2.0_Flash,M9,0.957,0.957
+Gemini_2.5_Pro,M10,1,1.024
+Gemini_2.5_Flash,M11,1,1.043
+Llama_3.3_70B,M12,1,1.065
+Llama_4_Scout,M13,1,1.701
+Llama_4_Maverick,M14,1,1.443
+Llama_4_Behemoth,M15,0.99,0.99
+DeepSeek_V3.1,M16,1,1.105
+DeepSeek-R1,M17,1,1.147
+DeepSeek-R1-Zero,M18,1,1.086
+Grok-3,M19,1,1.006
+Grok-4,M20,1,1.027
+Qwen3-235B,M21,1,1.355
+Qwen_2.5_Coder_32B,M22,1,3.151
+Qwen2.5_Max,M23,0.962,0.962
+Mistral_Large_2,M24,1,1.027
+Mixtral_8x22B,M25,0.93,0.93
+GPT-5-Codex,M26,1,1.052
