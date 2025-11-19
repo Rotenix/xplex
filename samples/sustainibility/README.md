@@ -1,6 +1,6 @@
 # DEA Sustainability Analysis: Complete Dataset
 
-I've successfully compiled comprehensive sustainability data for Data Envelopment Analysis across 28 countries with 4 input and 4 output metrics from authoritative sources.
+We've successfully compiled comprehensive sustainability data for Data Envelopment Analysis across 28 countries with 4 input and 4 output metrics from authoritative sources.
 
 ## Data Sources and Methodology
 
