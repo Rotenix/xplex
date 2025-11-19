@@ -1,0 +1,29 @@
+Country,CO2_Emissions_Per_Capita_tonnes,Energy_Use_Per_Capita_kg_oil_equiv,Material_Footprint_Per_Capita_tonnes,Ecological_Footprint_Per_Capita_gha
+Germany,7.22,3236.7,13.1,5.30
+United Kingdom,4.91,2263.4,24.5,4.44
+France,4.56,3102.4,13.5,4.98
+Sweden,3.49,4326.6,14.5,5.83
+Finland,6.50,5681.9,42.9,6.86
+Denmark,5.19,2628.9,16.5,5.65
+Netherlands,7.18,3575.8,12.5,5.55
+Spain,4.61,2406.6,9.8,3.71
+Italy,5.13,2411.7,11.5,4.61
+Poland,8.52,2803.4,15.5,4.38
+Czech Republic,8.79,3897.1,16.5,5.81
+Estonia,10.18,3558.5,18.5,7.78
+Japan,8.45,3135.9,24.5,5.02
+South Korea,12.42,5413.4,24.5,5.87
+Australia,14.66,4889.6,35.0,9.31
+New Zealand,5.75,3729.8,29.0,4.16
+China,8.87,2690.6,15.0,3.38
+Singapore,8.30,6630.4,21.0,7.97
+Thailand,3.56,1857.3,11.0,2.84
+United States,14.45,6505.6,25.5,8.40
+Canada,14.21,7632.3,29.0,8.17
+Mexico,3.54,1419.8,13.0,2.79
+Brazil,2.20,1429.0,13.0,3.14
+Chile,4.68,2117.8,25.0,5.19
+Colombia,1.71,775.5,11.0,1.87
+South Africa,6.56,1976.6,21.0,2.66
+Morocco,2.05,603.0,9.0,1.53
+Israel,7.09,2496.3,19.0,5.61
